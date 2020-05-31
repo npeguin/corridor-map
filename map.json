@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/office-map\/map.json"
+                 "value":"https:\/\/npeguin.github.io\/pub-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
