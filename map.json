@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/maps.workadventu.re\/Floor0\/floor0.json"
+                 "value":"\/@\/tcm\/workadventure\/floor0"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/coders-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/coders"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -71,9 +71,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/fantasy-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/fantasy"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,9 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/skapa-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/skapa"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -107,9 +107,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/tower-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/tower"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -125,9 +125,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/office-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/office"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -143,9 +143,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/pub-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/pub"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -161,9 +161,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/classroom-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/classroom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -179,9 +179,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/cacom\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/cacom"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/steph-map\/map.json"
+                 "value":"\/@\/tcm\/workadventure\/steph"
                 }],
          "type":"tilelayer",
          "visible":true,
